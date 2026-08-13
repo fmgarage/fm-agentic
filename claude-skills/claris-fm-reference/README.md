@@ -43,7 +43,7 @@ the agent to fetch the live category page rather than quote the bundled snapshot
 **Claude Code** (recommended):
 
 ```bash
-git clone https://github.com/<you>/claris-fm-reference ~/.claude/skills/claris-fm-reference
+git clone https://github.com/fmgarage/claris-fm-reference ~/.claude/skills/claris-fm-reference
 cd ~/.claude/skills/claris-fm-reference && python3 scripts/update.py
 ```
 
